@@ -44,3 +44,4 @@ tasks/
 
 # Added by goreleaser init:
 dist/
+debug.txt
